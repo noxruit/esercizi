@@ -1,0 +1,2 @@
+# esercizi
+Esercitazioni su GitHub
